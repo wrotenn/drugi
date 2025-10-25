@@ -1,0 +1,3 @@
+[submodule "trzeci"]
+	path = trzeci
+	url = git@github.com:bljatwroten/trzeci.git
